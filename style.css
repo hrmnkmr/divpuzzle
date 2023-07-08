@@ -1,0 +1,30 @@
+@charset "utf-8";
+body {
+margin: 0;  
+}
+.flex{
+display: flex;  
+}
+.red--box{
+height: 100px;
+background-color: #ff0000;
+width: 400px;  
+}
+.green--box{
+width: 150px;  
+height: 250px;
+background-color: #00ff00;
+float: left;
+}
+.blue--box{
+width: 250px;
+height: 250px;
+background-color: #3300ff; 
+float: left; 
+}
+.yellow--box{
+height: 100px;  
+background-color: #ffe600;
+clear: left;
+width: 400px;
+}
