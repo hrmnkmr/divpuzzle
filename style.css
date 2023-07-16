@@ -1,6 +1,6 @@
 @charset "utf-8";
 .clearfix::after {
-  content: “”;
+  content:"";
   display: block;
   clear: both;
   }
@@ -25,6 +25,5 @@ float: left;
 .yellow--box{
 height: 100px;  
 background-color: #ffe600;
-clear: left;
 width: 400px;
 }
